@@ -1,4 +1,4 @@
-FROM tianon/centos:6.5
+FROM centos:latest
 MAINTAINER SequenceIQ
 
 ADD Centos-Source.repo /etc/yum.repos.d/Centos-Source.repo
